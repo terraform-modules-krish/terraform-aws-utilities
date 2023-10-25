@@ -14,8 +14,8 @@ package upgrades
 import (
 	"testing"
 
-	"github.com/gruntwork-io/module-ci/test/upgrades"
-	"github.com/gruntwork-io/terratest/modules/terraform"
+	"github.com/terraform-modules-krish/module-ci/test/upgrades"
+	"github.com/terraform-modules-krish/terratest/modules/terraform"
 )
 
 func TestUpgradeModuleJoinPath(t *testing.T) {
