@@ -1,6 +1,6 @@
 # Instance types example
 
-This folder shows examples of how to use the [instance-type module](/modules/instance-type) to pick an instance type
+This folder shows examples of how to use the [instance-type module](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/v0.9.2/modules/instance-type) to pick an instance type
 that's available in all Availability Zones in the current AWS region.
 
 
