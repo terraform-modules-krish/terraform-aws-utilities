@@ -2,7 +2,7 @@ package test
 
 import (
 	"testing"
-	"github.com/gruntwork-io/terratest"
+	"github.com/terraform-modules-krish/terratest"
 )
 
 func TestIntermediateVariable(t *testing.T) {
