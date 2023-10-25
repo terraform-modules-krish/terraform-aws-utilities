@@ -7,7 +7,7 @@ intermediate values that contain interpolations.
 
 ## Quick start
 
-Check out the [intermediate-variable examples](/examples/intermediate-variable) for sample code. 
+Check out the [intermediate-variable examples](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/v0.0.1/examples/intermediate-variable) for sample code. 
 
 
 
@@ -43,7 +43,7 @@ data "template_file" "hello_world" {
 ```
 
 However, there is no way to use a `template_file` to store an intermediate variable that's a list or a map. Until now.
-Check out the [intermediate-variable examples](/examples/intermediate-variable) to see how.
+Check out the [intermediate-variable examples](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/v0.0.1/examples/intermediate-variable) to see how.
 
 
 

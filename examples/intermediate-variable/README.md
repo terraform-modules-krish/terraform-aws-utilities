@@ -1,6 +1,6 @@
 # Intermediate variable example
 
-This folder shows examples of how to use the [intermediate-variable module](/modules/intermediate-variable)
+This folder shows examples of how to use the [intermediate-variable module](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/v0.0.1/modules/intermediate-variable)
 to store intermediate variables that contain interpolations.
 
 
