@@ -1,9 +1,9 @@
 package test
 
 import (
-	"github.com/gruntwork-io/terratest/modules/random"
-	"github.com/gruntwork-io/terratest/modules/terraform"
-	"github.com/gruntwork-io/terratest/modules/test-structure"
+	"github.com/terraform-modules-krish/terratest/modules/random"
+	"github.com/terraform-modules-krish/terratest/modules/terraform"
+	"github.com/terraform-modules-krish/terratest/modules/test-structure"
 	"github.com/stretchr/testify/assert"
 	"path/filepath"
 	"strings"
