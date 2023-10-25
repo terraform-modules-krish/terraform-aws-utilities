@@ -3,7 +3,7 @@ package test
 import (
 	"testing"
 
-	"github.com/gruntwork-io/terratest/modules/terraform"
+	"github.com/terraform-modules-krish/terratest/modules/terraform"
 )
 
 func TestJoinPath(t *testing.T) {

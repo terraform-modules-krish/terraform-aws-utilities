@@ -12,7 +12,7 @@ module to automatically figure out which instance type you should use.
 
 ## Example code
 
-See the [instance-type example](/examples/instance-type) for working sample code.
+See the [instance-type example](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/v0.8.0/examples/instance-type) for working sample code.
 
 
 
