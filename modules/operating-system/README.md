@@ -2,7 +2,7 @@
 
 This is a module that can be used to figure out what operating system is being used to run Terraform. This may be used
 to modify Terraform's behavior depending on the OS, such as modifying the way you format file paths on Linux vs 
-Windows (see also the [join-path module](/modules/join-path)). 
+Windows (see also the [join-path module](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/v0.1.1/modules/join-path)). 
 
 This module uses Python under the hood so, the Python must be installed on the OS. 
 
@@ -11,7 +11,7 @@ This module uses Python under the hood so, the Python must be installed on the O
 
 ## Example code
 
-See the [operating-system example](/examples/operating-system) for working sample code.
+See the [operating-system example](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/v0.1.1/examples/operating-system) for working sample code.
 
 
 

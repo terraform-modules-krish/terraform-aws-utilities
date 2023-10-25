@@ -1,6 +1,6 @@
 # List Remove example
 
-This folder shows examples of how to use the [list-remove module](/modules/list-remove) to remove items from a list
+This folder shows examples of how to use the [list-remove module](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/v0.1.1/modules/list-remove) to remove items from a list
 based on a lookup list.
 
 
