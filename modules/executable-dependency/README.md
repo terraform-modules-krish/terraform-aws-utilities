@@ -2,8 +2,8 @@
 
 This is a module that can be used to check if an executable is already installed, and if it's not, download it from a
 URL. This is useful if your Terraform code has an external dependency and you want that dependency to be auto installed
-if it's not installed already: e.g., [terraform-aws-eks](https://github.com/gruntwork-io/terraform-aws-eks) expects the 
-[kubergrunt](https://github.com/gruntwork-io/kubergrunt) binary to be installed, and `executable-dependency` allows
+if it's not installed already: e.g., [terraform-aws-eks](https://github.com/terraform-modules-krish/terraform-aws-eks) expects the 
+[kubergrunt](https://github.com/terraform-modules-krish/kubergrunt) binary to be installed, and `executable-dependency` allows
 `terraform-aws-eks` to automatically download `kubergrunt` if it's not already available. 
 
 **NOTE**: This module requires that Python is installed on your system. It should work with Python 2 or 3.
@@ -13,7 +13,7 @@ if it's not installed already: e.g., [terraform-aws-eks](https://github.com/grun
 
 ## Example code
 
-See the [executable-dependency example](/examples/executable-dependency) for working sample code.
+See the [executable-dependency example](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/v0.4.0/examples/executable-dependency) for working sample code.
 
 
 
