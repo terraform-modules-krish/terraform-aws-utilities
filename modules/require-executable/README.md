@@ -14,4 +14,4 @@ This module uses Python under the hood, so Python must be installed and availabl
 
 ## Example code
 
-See the [require-executable example](/examples/require-executable) for working sample code.
+See the [require-executable example](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/v0.0.4/examples/require-executable) for working sample code.

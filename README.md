@@ -1,17 +1,36 @@
+***WARNING: THIS REPO IS AN AUTO-GENERATED COPY.*** *This repo has been copied from [Gruntwork’s](https://gruntwork.io/) GitHub repositories so that you can consume it from your company’s own internal Git repositories. This copy is automatically created and updated by the `repo-copier` CLI tool. If you need to make changes to this repo, you should make the changes in a separate fork, and NOT make changes directly in this repo, as otherwise, the `repo-copier` will overwrite your changes! Please see the `repo-copier` [documentation](https://github.com/terraform-modules-krish/repo-copier) for more information on how the code is copied, how cross-references are updated, how the changelog is handled, etc.*
+
+***
+
+_You may find it valuable to view the following resources in the original repo. If these links give you a 404, visit https://app.gruntwork.io to gain access or email support@gruntwork.io if you need assistance._
+
+[Home Page](https://github.com/gruntwork-io/terraform-aws-utilities/) |
+[Pull Requests](https://github.com/gruntwork-io/terraform-aws-utilities/pulls) |
+[Issues](https://github.com/gruntwork-io/terraform-aws-utilities/issues) |
+[Releases and Assets](https://github.com/gruntwork-io/terraform-aws-utilities/releases)
+
+_Alternatively, you can view a copied version of the resources listed above._
+
+[Pull Requests](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/main/.github/PULL_REQUESTS.md) |
+[Issues](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/main/.github/ISSUES.md) |
+[ChangeLog](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/main/.github/CHANGELOG.md)
+
+***
+
 # Terraform Utility Modules
 
 This repo contains miscellaneous utility and helper modules for use with Terraform. 
 
 The modules are:
 
-* [intermediate-variable](/modules/intermediate-variable): A simple module that returns as output the exact variables 
+* [intermediate-variable](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/v0.0.4/modules/intermediate-variable): A simple module that returns as output the exact variables 
   you pass to it as inputs. This gives you a way to store intermediate values that contain interpolations.
-* [join-path](/modules/join-path): This module can be used to join a list of given path parts into a single path that is
+* [join-path](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/v0.0.4/modules/join-path): This module can be used to join a list of given path parts into a single path that is
   platform/operating system aware. **(This module requires Python)**
-* [operating-system](/modules/operating-system): This module can be used to figure out what operating system is being
+* [operating-system](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/v0.0.4/modules/operating-system): This module can be used to figure out what operating system is being
   used to run Terraform. **(This module requires Python)**
 
-Click on each module above to see its documentation. Head over to the [examples](/examples) folder for examples.
+Click on each module above to see its documentation. Head over to the [examples](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/v0.0.4/examples) folder for examples.
 
 
 
@@ -63,12 +82,12 @@ pull the latest version of this module from this repo before runnin gthe standar
 ### Using scripts & binaries
 
 You can install the scripts and binaries in the `modules` folder of any repo using the [Gruntwork
-Installer](https://github.com/gruntwork-io/gruntwork-installer). For example, if the scripts you want to install are
-in the `modules/ecs-scripts` folder of the https://github.com/gruntwork-io/module-ecs repo, you could install them
+Installer](https://github.com/terraform-modules-krish/gruntwork-installer). For example, if the scripts you want to install are
+in the `modules/ecs-scripts` folder of the https://github.com/terraform-modules-krish/module-ecs repo, you could install them
 as follows:
 
 ```bash
-gruntwork-install --module-name "ecs-scripts" --repo "https://github.com/gruntwork-io/module-ecs" --tag "0.0.1"
+gruntwork-install --module-name "ecs-scripts" --repo "https://github.com/terraform-modules-krish/module-ecs" --tag "0.0.1"
 ```
 
 See the docs for each script & binary for detailed instructions on how to use them.
@@ -93,11 +112,11 @@ The version is defined using Git tags.  Use GitHub to create a release, which wi
 
 ### Tests
 
-See the [test](/test) folder for details.
+See the [test](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/v0.0.4/test) folder for details.
 
 
 
 
 ## License
 
-Please see [LICENSE.txt](/LICENSE.txt) for details on how the code in this repo is licensed.
+Please see [LICENSE.txt](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/v0.0.4/LICENSE.txt) for details on how the code in this repo is licensed.
