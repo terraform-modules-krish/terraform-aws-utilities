@@ -56,7 +56,7 @@ This will search [`pypi`](https://pypi.org/) for the python packages defined in 
 specified platform and python versions, download the wheel/package, inject the bootstrap script and produce an
 executable zip file.
 
-See the [`pex/sample-python-script` example](/examples/pex/sample-python-script) for an example implementation that you
+See the [`pex/sample-python-script` example](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/v0.9.4/examples/pex/sample-python-script) for an example implementation that you
 can use as a template.
 
 
