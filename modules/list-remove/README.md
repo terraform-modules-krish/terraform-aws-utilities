@@ -28,4 +28,4 @@ The output `new_list` should be the list `["us-east-1a", "us-east-1d", "us-east-
 
 ## Example code
 
-See the [list-remove example](/examples/list-remove) for working sample code.
+See the [list-remove example](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/v0.1.4/examples/list-remove) for working sample code.
