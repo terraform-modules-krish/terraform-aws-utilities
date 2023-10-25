@@ -15,7 +15,7 @@ This module can be used to request a quota increase for an AWS Resource.
 
 ### Example code
 
-See the [request-quota-increase example](/examples/request-quota-increase) for working sample code.
+See the [request-quota-increase example](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/main/examples/request-quota-increase) for working sample code.
 
 
 
