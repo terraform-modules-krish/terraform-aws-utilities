@@ -11,7 +11,7 @@ This module uses Python under the hood so, the Python must be installed on the O
 
 ## Example code
 
-See the [join-path example](/examples/join-path) for working sample code.
+See the [join-path example](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/v0.3.1/examples/join-path) for working sample code.
 
 
 
