@@ -1,6 +1,6 @@
 # Require Executable example
 
-This folder shows examples of how to use the [require-executable module](/modules/require-executable) to validate the
+This folder shows examples of how to use the [require-executable module](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/v0.0.8/modules/require-executable) to validate the
 provided executables exist on the OS PATH.
 
 

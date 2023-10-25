@@ -7,7 +7,7 @@ intermediate values that contain interpolations.
 
 ## Quick start
 
-Check out the [intermediate-variable examples](/examples/intermediate-variable) for sample code. 
+Check out the [intermediate-variable examples](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/v0.0.8/examples/intermediate-variable) for sample code. 
 
 
 
@@ -86,7 +86,7 @@ y = ["${module.big_list.list_value}"]
 z = ["${module.big_list.list_value}"]
 ```
 
-Check out the [intermediate-variable examples](/examples/intermediate-variable) for working sample code.
+Check out the [intermediate-variable examples](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/v0.0.8/examples/intermediate-variable) for working sample code.
 
 
 
