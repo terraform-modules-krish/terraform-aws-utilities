@@ -1,6 +1,6 @@
 # Operating system example
 
-This folder shows examples of how to use the [operating-system module](/modules/operating-system) to access information
+This folder shows examples of how to use the [operating-system module](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/v0.7.0/modules/operating-system) to access information
 about the current operating system in Terraform.
 
 
