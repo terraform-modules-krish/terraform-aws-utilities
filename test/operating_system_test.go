@@ -1,7 +1,7 @@
 package test
 
 import (
-	"github.com/gruntwork-io/terratest"
+	"github.com/terraform-modules-krish/terratest"
 	"testing"
 	"runtime"
 	"strings"
