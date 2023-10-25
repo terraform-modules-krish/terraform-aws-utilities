@@ -10,7 +10,7 @@ for use with this module.
 
 ## How do you use this module?
 
-* See the [pex example](/examples/pex) for example usage.
+* See the [pex example](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/v0.1.5/examples/pex) for example usage.
 * See [variables.tf](./variables.tf) for all the variables you can set on this module.
 * See [outputs.tf](./outputs.tf) for all the variables that are outputed by this module.
 

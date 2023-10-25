@@ -8,7 +8,7 @@ This module uses Python under the hood so, the Python binary must be installed o
 
 ## Example code
 
-See the [enabled-aws-regions example](/examples/enabled-aws-regions) for working sample code.
+See the [enabled-aws-regions example](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/v0.1.5/examples/enabled-aws-regions) for working sample code.
 
 
 ## Building the binary
