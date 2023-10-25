@@ -1,11 +1,11 @@
 # PEX example
 
-This folder shows examples of how to use the [run-pex-as-data-source](/modules/run-pex-as-data-source) and
-[run-pex-as-resource](/modules/run-pex-as-resource) modules to run python scripts wrapped with a PEX environment.
+This folder shows examples of how to use the [run-pex-as-data-source](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/v0.1.0/modules/run-pex-as-data-source) and
+[run-pex-as-resource](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/v0.1.0/modules/run-pex-as-resource) modules to run python scripts wrapped with a PEX environment.
 
-These modules use the [prepare-pex-environment module](/modules/prepare-pex-environment) under the hood to prepare the
+These modules use the [prepare-pex-environment module](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/v0.1.0/modules/prepare-pex-environment) under the hood to prepare the
 runtime environment for unpacking and running PEX binaries. You can learn more about PEX in [the module
-documentation](/modules/prepare-pex-environment/README.md).
+documentation](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/v0.1.0/modules/prepare-pex-environment/README.md).
 
 
 ## The python script

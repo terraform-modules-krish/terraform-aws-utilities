@@ -1,6 +1,6 @@
 # Join path example
 
-This folder shows examples of how to use the [join-path module](/modules/join-path) to create a file path with the 
+This folder shows examples of how to use the [join-path module](https://github.com/terraform-modules-krish/terraform-aws-utilities/blob/v0.1.0/modules/join-path) to create a file path with the 
 proper path separator for the current operating system. 
 
 
