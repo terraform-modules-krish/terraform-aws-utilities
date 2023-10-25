@@ -2,8 +2,8 @@ package test
 
 import (
 	"fmt"
-	"github.com/gruntwork-io/terratest/modules/terraform"
-	test_structure "github.com/gruntwork-io/terratest/modules/test-structure"
+	"github.com/terraform-modules-krish/terratest/modules/terraform"
+	test_structure "github.com/terraform-modules-krish/terratest/modules/test-structure"
 	"github.com/stretchr/testify/require"
 	"testing"
 )
